@@ -3,6 +3,7 @@ Author:  Mihai Rotaru
 Date:    February 4, 2014
 Updated: February 5, 2014
 Tags:    CSS,SASS,SCSS,sourcemaps,DevTools,Vim
+Description: Troubleshooting some common problems with generating sourcemaps with scss on Windows
 
 # Generate SASS sourcemaps on Windows
 
