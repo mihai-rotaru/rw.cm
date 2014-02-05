@@ -114,3 +114,8 @@ We'll use this stuff in an `BufWritePost` autocommand:
 It's ugly, but it works.
 
 _to be continued..._
+
+*[HTML]: Hyper Text Markup Language
+*[CSS]: Cascading Style Sheets
+*[SCSS]: Syntactically Awesome Stylesheets
+*[SASS]: Syntactically Awesome Stylesheets
