@@ -1,6 +1,10 @@
-# Generate SASS sourcemaps on Windows
+Title:   Generate SASS sourcemaps on Windows
+Author:  Mihai Rotaru
+Date:    February 4, 2014
+Updated: February 5, 2014
+Tags:    CSS,SASS,SCSS,sourcemaps,DevTools,Vim
 
-##### Posted: 4th of February 2014
+# Generate SASS sourcemaps on Windows
 
 You might be aware of the awesomeness that is possible with upcoming Sass 3.3
 and Chrome DevTools. It allows you to treat SCSS as CSS - with inline editing,
